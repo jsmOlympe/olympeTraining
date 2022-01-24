@@ -27,11 +27,7 @@
   },
   "dependencies": {
     "@olympeio/core": "1.1.8",
-    "@olympeio/draw": "1.15.1",
-    "@olympeio-extensions/commons": "0.4.1",
-    "@olympeio-extensions/mapbox": "0.4.1",
-    "@olympeio-extensions/open-sky": "0.4.1",
-    "@olympeio-extensions/qrcode-zxing": "0.4.1"
+    "@olympeio/draw": "1.15.1"
   }
 
 }
